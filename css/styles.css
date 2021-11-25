@@ -5,6 +5,96 @@
 }
 body{
 font-family: roboto,sans-serif;
-color: rgb(150, 27, 27);
+color: #212121;
+}
+ul,ol{
+    list-style: none;
+}
+/* Шапка страницы */
+.header{
 
 }
+.logo{
+
+}
+.logo-icon{
+
+}
+.header-nav{
+
+}
+/* Навигация на другие страницы */
+.nav{
+
+}
+.nav-pagination{
+
+}
+/* Ссылка на вебсайт,телефонный номер */
+.nav-all{
+
+}
+/* Уникальный контент страницы */
+.hero{
+
+}
+.hero-title{
+
+}
+.hero-button{
+
+}
+/* Особенности */
+.special-section{
+
+}
+.special-container{
+
+}
+.special-box{
+
+}
+.title-list{
+
+}
+.title-text{
+
+}
+
+
+/* Чем мы занимаемся */
+.work{
+
+}
+
+.work-title{
+
+}
+.work-container{
+
+}
+
+/* Наша команда */
+.command{
+
+}
+
+.command-container{
+
+}
+.command-box{
+
+}
+/* футер */
+.footer{
+
+}
+.address{
+
+}
+.address-text{
+    
+}
+
+
+
