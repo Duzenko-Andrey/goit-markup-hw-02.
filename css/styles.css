@@ -52,6 +52,7 @@ font-size: 14px;
 line-height: 1.14;
 text-decoration: none;
 color: var(--text-primary);
+letter-spacing: 0.02em;
 }
 .nav-pagination:hover,
 .nav-pagination:focus{
@@ -64,6 +65,7 @@ font-size: 14px;
 line-height: 1.14;
 text-decoration: none;
 color: var(--text-secondary);
+letter-spacing: 0.02em;
 }
 .nav-all:hover
 .nav-all:focus{
@@ -79,6 +81,7 @@ font-size: 44px;
 line-height: 1.36;
 text-align: center;
 letter-spacing: 0.06em;
+text-transform: uppercase;
 }
 .hero-button{
 display: flex;
@@ -157,6 +160,7 @@ color: var(--text-primary);
 .command-title-text{
 font-size: 16px;
 line-height: 1.18;
+letter-spacing: 0.03em;
 color: var(--text-secondary);
 }
 
@@ -165,9 +169,17 @@ color: var(--text-secondary);
 .footer{
 
 }
-.address{
-
+.address-all{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;    
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);;   
 }
+
+
 .address-text{
 font-size: 14px;
 line-height: 1.7;
@@ -177,6 +189,7 @@ color: #ffffff;
 
 /* Партфолио */
 .main-button{
+font-family: Roboto;    
 background: #F5F4FA;
 border-radius: 4px;    
 font-weight: 500;
